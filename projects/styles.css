@@ -19,3 +19,8 @@ h1 {
 * {
   text-decoration: none;
 }
+
+h6 {
+  color: #ffffff
+  font-family: montserrat, sans-serif;
+}
