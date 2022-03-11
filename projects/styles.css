@@ -6,8 +6,9 @@ body {
   font-family: montserrat, sans-serif;
 }
 
-p {
+h3, h6 {
   color: #ffffff;
+  font-family: montserrat, sans-serif;
 }
 
 * {
