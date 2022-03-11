@@ -6,11 +6,16 @@ body {
   font-family: montserrat, sans-serif;
 }
 
-h3, h1 {
+h3 {
   color: #ffffff;
   font-family: montserrat, sans-serif;
 }
 
+h1 {
+  color: #ffffff;
+  font-family: montserrat, sans-serif;
+}
+  
 * {
   text-decoration: none;
 }
